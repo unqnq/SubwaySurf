@@ -5,7 +5,7 @@ using UnityEngine;
 public class Bank : MonoBehaviour
 {
     [SerializeField] TMP_Text currentCoinCountText;
-    int currentCoinCount = 0;
+    [SerializeField] int currentCoinCount = 0;
 
     void Awake()
     {

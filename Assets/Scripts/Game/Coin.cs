@@ -15,10 +15,10 @@ public class Coin : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        Debug.Log("collision");
+        // Debug.Log("collision");
         if(other.CompareTag("Player"))
         {
-            Debug.Log("collision with PLAYER");
+            // Debug.Log("collision with PLAYER");
             bank.AddCoin(coinCost);
             if(collectSound)
             {
