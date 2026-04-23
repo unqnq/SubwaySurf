@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 845fd974320c6304f8f0ea1fd7cb0b56
+  productGUID: 3dbef065fbdbe984eab183a476398f99
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -921,11 +921,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 4b61d5b9-6548-402c-87ce-a1aca4c8a463
+  cloudProjectId: 972b8777-43c7-4f5e-bb99-041dae18d4b2
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: SubwaySurf
-  organizationId: yaroslavamir
+  organizationId: unity_b4e67d87d63ad507b3ca
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
